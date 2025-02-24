@@ -5,6 +5,7 @@ Things that I learned and want to remember
 ## Categories
 
 - [Programming Languages](#programming-languages)
+- [FPGA](#fpga)
 
 <!-- Categories End -->
 
@@ -18,3 +19,10 @@ Things that I learned and want to remember
 - [Zig Introduction Book](https://pedropark99.github.io/zig-book/)
 
 <!-- Programming Languages End -->
+
+<!-- FPGA Begin -->
+## FPGA
+
+- [HDL Design using Vivado](https://www.amd.com/en/corporate/university-program/vivado/vivado-teaching-material/hdl-design.html)
+
+<!-- FPGA End -->
