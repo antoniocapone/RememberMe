@@ -18,6 +18,10 @@ Things that I learned and want to remember
 - [STL Reference](https://ziglang.org/documentation/0.13.0/std/)
 - [Zig Introduction Book](https://pedropark99.github.io/zig-book/)
 
+### Rust
+
+- [Rust Book](https://doc.rust-lang.org/book/)
+
 <!-- Programming Languages End -->
 
 <!-- FPGA Begin -->
