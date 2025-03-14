@@ -28,5 +28,6 @@ Things that I learned and want to remember
 ## FPGA
 
 - [HDL Design using Vivado](https://www.amd.com/en/corporate/university-program/vivado/vivado-teaching-material/hdl-design.html)
+- [Diligent Nexys A7-100T Reference Manual](https://digilent.com/reference/programmable-logic/nexys-a7/reference-manual)
 
 <!-- FPGA End -->
