@@ -6,6 +6,7 @@ Things that I learned and want to remember
 
 - [Programming Languages](#programming-languages)
 - [FPGA](#fpga)
+- [Microcontrollers](#microcontrollers)
 
 <!-- Categories End -->
 
@@ -31,3 +32,7 @@ Things that I learned and want to remember
 - [Diligent Nexys A7-100T Reference Manual](https://digilent.com/reference/programmable-logic/nexys-a7/reference-manual)
 
 <!-- FPGA End -->
+
+## Microcontrollers
+
+- [Dynamixel](https://github.com/antoniocapone/RememberMe)
