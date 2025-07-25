@@ -36,6 +36,7 @@ Things that I learned and want to remember
 
 <!-- RL Begin -->
 ## Reinforcement Learning
+
 - [Google Deepmind Course (David Silver)](https://davidstarsilver.wordpress.com/teaching/)
 - [Google Deepmind Course](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)
 
@@ -45,3 +46,8 @@ Things that I learned and want to remember
 
 - [Dynamixel](https://github.com/antoniocapone/RememberMe)
 - [MicroRos](https://github.com/micro-ROS/)
+
+## Drones
+
+- [PX4 Autopilot Firmware](https://github.com/PX4/PX4-Autopilot)
+- [Betaflight Firmware](https://github.com/betaflight/betaflight)
