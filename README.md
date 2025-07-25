@@ -8,6 +8,7 @@ Things that I learned and want to remember
 - [FPGA](#fpga)
 - [Reinforcement Learning](#reinforcement-learning)
 - [Microcontrollers](#microcontrollers)
+- [Drones](#drones)
 
 <!-- Categories End -->
 
