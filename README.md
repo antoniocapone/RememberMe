@@ -6,6 +6,7 @@ Things that I learned and want to remember
 
 - [Programming Languages](#programming-languages)
 - [FPGA](#fpga)
+- [Reinforcement Learning](#reinforcement-learning)
 - [Microcontrollers](#microcontrollers)
 
 <!-- Categories End -->
