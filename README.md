@@ -33,6 +33,13 @@ Things that I learned and want to remember
 
 <!-- FPGA End -->
 
+<!-- RL Begin -->
+## Reinforcement Learning
+- [Google Deepmind Course (David Silver)](https://davidstarsilver.wordpress.com/teaching/)
+- [Google Deepmind Course](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)
+
+<!-- RL End -->
+
 ## Microcontrollers
 
 - [Dynamixel](https://github.com/antoniocapone/RememberMe)
