@@ -9,6 +9,7 @@ Things that I learned and want to remember
 - [Reinforcement Learning](#reinforcement-learning)
 - [Microcontrollers](#microcontrollers)
 - [Drones](#drones)
+- [Computer Graphics](#computer-graphics)
 
 <!-- Categories End -->
 
@@ -47,6 +48,10 @@ Things that I learned and want to remember
 
 - [Dynamixel](https://github.com/antoniocapone/RememberMe)
 - [MicroRos](https://github.com/micro-ROS/)
+
+## Computer Graphics
+
+- [OpenGL](https://learnopengl.com/)
 
 ## Drones
 
