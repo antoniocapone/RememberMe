@@ -58,3 +58,5 @@ Things that I learned and want to remember
 
 - [PX4 Autopilot Firmware](https://github.com/PX4/PX4-Autopilot)
 - [Betaflight Firmware](https://github.com/betaflight/betaflight)
+- [Offboard Drone Control (Planner + Control)](https://github.com/Marnonel6/ROS2_offboard_drone_control)
+- [Pegasus Drone](https://github.com/PegasusDrone)
