@@ -41,6 +41,7 @@ Things that I learned and want to remember
 
 - [Google Deepmind Course (David Silver)](https://davidstarsilver.wordpress.com/teaching/)
 - [Google Deepmind Course](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)
+- [Isaac Lab & Isaac Sim Tutorial](https://www.youtube.com/watch?v=tQziqSx-F80)
 
 <!-- RL End -->
 
