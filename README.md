@@ -4,12 +4,13 @@ Things that I learned and want to remember
 <!-- Categories Begin -->
 ## Categories
 
-- [Programming Languages](#programming-languages)
-- [FPGA](#fpga)
-- [Reinforcement Learning](#reinforcement-learning)
-- [Microcontrollers](#microcontrollers)
-- [Drones](#drones)
 - [Computer Graphics](#computer-graphics)
+- [Drones](#drones)
+- [FPGA](#fpga)
+- [GPU](#gpu)
+- [Microcontrollers](#microcontrollers)
+- [Programming Languages](#programming-languages)
+- [Reinforcement Learning](#reinforcement-learning)
 
 <!-- Categories End -->
 
@@ -61,3 +62,6 @@ Things that I learned and want to remember
 - [Betaflight Firmware](https://github.com/betaflight/betaflight)
 - [Offboard Drone Control (Planner + Control)](https://github.com/Marnonel6/ROS2_offboard_drone_control)
 - [Pegasus Drone](https://github.com/PegasusDrone)
+
+## GPU
+- [CUDA C Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/)
