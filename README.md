@@ -63,6 +63,7 @@ Things that I learned and want to remember
 - [Offboard Drone Control (Planner + Control)](https://github.com/Marnonel6/ROS2_offboard_drone_control)
 - [Pegasus Drone](https://github.com/PegasusDrone)
 - [Designing My Own Flight Controller](https://flying-rabbit-fpv.com/2020/10/06/designing-my-own-flight-controller/)
+- [Simple Introduction to the Kalman Filter](https://www.cs.unc.edu/~welch/media/pdf/kalman_intro.pdf)
 
 ## GPU
 - [CUDA C Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/)
