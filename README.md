@@ -55,6 +55,7 @@ Things that I learned and want to remember
 
 - [OpenGL](https://learnopengl.com/)
 - [3D Software Rendering](https://www.youtube.com/watch?v=maSIQg8IFRI)
+- [Games Math](https://gamemath.com/book/)
 
 ## Drones
 
