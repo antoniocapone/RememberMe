@@ -6,6 +6,7 @@ Things that I learned and want to remember
 
 - [Computer Graphics](#computer-graphics)
 - [Drones](#drones)
+- [Emulators](#emulators)
 - [FPGA](#fpga)
 - [GPU](#gpu)
 - [Microcontrollers](#microcontrollers)
@@ -28,6 +29,13 @@ Things that I learned and want to remember
 - [Rust Book](https://doc.rust-lang.org/book/)
 
 <!-- Programming Languages End -->
+
+<!-- Emulators Begin -->
+## Emulators
+
+- [6502 Emulator in C++](https://youtu.be/qJgsuQoy9bc?si=Kae7VU0yZKOrIuIJ)
+
+<!-- Emulators End -->
 
 <!-- FPGA Begin -->
 ## FPGA
