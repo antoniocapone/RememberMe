@@ -1,7 +1,6 @@
-# RememberMe
+# Remember Me
 Things that I learned and want to remember
 
-<!-- Categories Begin -->
 ## Categories
 
 - [Computer Graphics](#computer-graphics)
@@ -12,52 +11,7 @@ Things that I learned and want to remember
 - [Microcontrollers](#microcontrollers)
 - [Programming Languages](#programming-languages)
 - [Reinforcement Learning](#reinforcement-learning)
-
-<!-- Categories End -->
-
-<!-- Programming Languages Begin -->
-## Programming Languages
-
-### Zig
-
-- [Language Reference](https://ziglang.org/documentation/0.13.0/)
-- [STL Reference](https://ziglang.org/documentation/0.13.0/std/)
-- [Zig Introduction Book](https://pedropark99.github.io/zig-book/)
-
-### Rust
-
-- [Rust Book](https://doc.rust-lang.org/book/)
-
-<!-- Programming Languages End -->
-
-<!-- Emulators Begin -->
-## Emulators
-
-- [6502 Emulator in C++](https://youtu.be/qJgsuQoy9bc?si=Kae7VU0yZKOrIuIJ)
-
-<!-- Emulators End -->
-
-<!-- FPGA Begin -->
-## FPGA
-
-- [HDL Design using Vivado](https://www.amd.com/en/corporate/university-program/vivado/vivado-teaching-material/hdl-design.html)
-- [Diligent Nexys A7-100T Reference Manual](https://digilent.com/reference/programmable-logic/nexys-a7/reference-manual)
-
-<!-- FPGA End -->
-
-<!-- RL Begin -->
-## Reinforcement Learning
-
-- [Google Deepmind Course (David Silver)](https://davidstarsilver.wordpress.com/teaching/)
-- [Google Deepmind Course](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)
-- [Isaac Lab & Isaac Sim Tutorial](https://www.youtube.com/watch?v=tQziqSx-F80)
-
-<!-- RL End -->
-
-## Microcontrollers
-
-- [Dynamixel](https://github.com/antoniocapone/RememberMe)
-- [MicroRos](https://github.com/micro-ROS/)
+- [Simulators](#simulators)
 
 ## Computer Graphics
 
@@ -74,5 +28,40 @@ Things that I learned and want to remember
 - [Designing My Own Flight Controller](https://flying-rabbit-fpv.com/2020/10/06/designing-my-own-flight-controller/)
 - [Simple Introduction to the Kalman Filter](https://www.cs.unc.edu/~welch/media/pdf/kalman_intro.pdf)
 
+## Emulators
+
+- [6502 Emulator in C++](https://youtu.be/qJgsuQoy9bc?si=Kae7VU0yZKOrIuIJ)
+
+## FPGA
+
+- [HDL Design using Vivado](https://www.amd.com/en/corporate/university-program/vivado/vivado-teaching-material/hdl-design.html)
+- [Diligent Nexys A7-100T Reference Manual](https://digilent.com/reference/programmable-logic/nexys-a7/reference-manual)
+
 ## GPU
 - [CUDA C Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/)
+
+## Microcontrollers
+
+- [Dynamixel](https://github.com/antoniocapone/RememberMe)
+- [MicroRos](https://github.com/micro-ROS/)
+
+## Programming Languages
+
+### Zig
+
+- [Language Reference](https://ziglang.org/documentation/0.13.0/)
+- [STL Reference](https://ziglang.org/documentation/0.13.0/std/)
+- [Zig Introduction Book](https://pedropark99.github.io/zig-book/)
+
+### Rust
+
+- [Rust Book](https://doc.rust-lang.org/book/)
+
+## Reinforcement Learning
+
+- [Google Deepmind Course (David Silver)](https://davidstarsilver.wordpress.com/teaching/)
+- [Google Deepmind Course](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)
+- [Isaac Lab & Isaac Sim Tutorial](https://www.youtube.com/watch?v=tQziqSx-F80)
+
+## Simulators
+- [Coding a Physics Engine from scratch](https://www.youtube.com/watch?v=nXrEX6j-Mws)
