@@ -4,7 +4,7 @@ Things that I learned and want to remember
 ## Categories
 
 - [Computer Graphics](#computer-graphics)
-- [Drones](#drones)
+- [Robotics](#robotics)
 - [Emulators](#emulators)
 - [FPGA](#fpga)
 - [GPU](#gpu)
@@ -19,7 +19,7 @@ Things that I learned and want to remember
 - [3D Software Rendering](https://www.youtube.com/watch?v=maSIQg8IFRI)
 - [Games Math](https://gamemath.com/book/)
 
-## Drones
+## Robotics
 
 - [PX4 Autopilot Firmware](https://github.com/PX4/PX4-Autopilot)
 - [Betaflight Firmware](https://github.com/betaflight/betaflight)
@@ -27,6 +27,7 @@ Things that I learned and want to remember
 - [Pegasus Drone](https://github.com/PegasusDrone)
 - [Designing My Own Flight Controller](https://flying-rabbit-fpv.com/2020/10/06/designing-my-own-flight-controller/)
 - [Simple Introduction to the Kalman Filter](https://www.cs.unc.edu/~welch/media/pdf/kalman_intro.pdf)
+- [Visual Navigation for Autonomous Veichles (MIT Course)](https://vnav.mit.edu/)
 
 ## Emulators
 
