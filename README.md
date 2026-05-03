@@ -4,8 +4,10 @@ Things that I learned and want to remember
 ## Categories
 
 - [Algorithms and Data Structures](#algorithms-and-data-structures)
+- [Artificial Intelligence](#artificial-intelligence)
 - [Computer Graphics](#computer-graphics)
 - [Computer Vision](#computer-vision)
+- [Deep Learning](#deep-learning)
 - [Electronics](#electronics)
 - [Emulators](#emulators)
 - [FPGA](#fpga)
@@ -28,6 +30,12 @@ Things that I learned and want to remember
 
 ## Computer Vision
 - [Machine Vision (MIT Course)](https://www.youtube.com/playlist?list=PLUl4u3cNGP63pfpS1gV5P9tDxxL_e4W8O)
+- [Diffusion Models (Standford Course)](https://www.youtube.com/playlist?list=PLoROMvodv4rNdy8rt2rZ4T2xM0OjADnfu)
+
+## Deep Learning
+- [Transformers (Standford Course)](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
+- [Deep Generative Models (Standford Course)](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8)
+- [Machine Learning with Graphs (Standford Course)](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
 
 ## Electronics
 - [Power Electronics (MIT Course)](https://www.youtube.com/playlist?list=PLUl4u3cNGP62UTc77mJoubhDELSC8lfR0)
