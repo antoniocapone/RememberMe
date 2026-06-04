@@ -90,6 +90,7 @@ Things that I learned and want to remember
 - [Simple Introduction to the Kalman Filter](https://www.cs.unc.edu/~welch/media/pdf/kalman_intro.pdf)
 - [Visual Navigation for Autonomous Veichles (MIT Course)](https://vnav.mit.edu/)
 - [Underactuated Robotics (MIT Course)](https://www.youtube.com/playlist?list=PL58F1D0056F04CF8C)
+- [VIO for dummies](https://www.thinkautonomous.ai/blog/visual-inertial-odometry/)
 
 ## Simulators
 - [Coding a Physics Engine from scratch](https://www.youtube.com/watch?v=nXrEX6j-Mws)
